@@ -1,0 +1,12 @@
+David: Program to connect volunteers to farmers
+In general the code is a bit confusing when using the modules, but OOP was properly used.
+It has many files so it got a litle bit messy.
+The file Hackathon.py, for instance is not a python code, but SQL.
+There are parts of the code that are not being used like the flask applications.
+the GUI was made with Tkinter and it look nice.
+No API or JSON was used.
+Python OOP:10/10
+Modules: 8/10
+Database:8/10
+JSON/API:0/10
+Overall: 6.5
